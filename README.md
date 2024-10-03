@@ -46,29 +46,18 @@ The dashboard is built on several key metrics derived from the dataset:
 | **Grand Total**   | **$14,514,093.67**       | **738,562**              |
 
 ### 4. Guest Demographics
-| **Adults** | **Children** |
-|------------|--------------|
-| 1          | 24,564       |
-| 1          | 6,139        |
-| 2          | 6,118        |
-| 3          | 6,129        |
-| 4          | 6,178        |
-| 2          | 48,764       |
-| 1          | 12,138       |
-| 2          | 12,326       |
-| 3          | 12,210       |
-| 4          | 12,090       |
-| 3          | 74,091       |
-| 1          | 18,558       |
-| 2          | 18,363       |
-| 3          | 18,762       |
-| 4          | 18,408       |
-| 4          | 99,704       |
-| 1          | 25,016       |
-| 2          | 24,560       |
-| 3          | 25,816       |
-| 4          | 24,312       |
-| **Grand Total** | **247,123** | **246,306** |
+
+
+The analysis of guest demographics reveals the distribution of adults and children across various reservations. The total number of adults recorded is **6,752**, while the total number of children is **6,800**. 
+
+The data indicates that:
+
+- Reservations with **1 adult** accounted for a significant portion of the total, with a few reservations having varying numbers of children.
+- **2 adults** were commonly associated with an average number of children per reservation.
+- As the number of adults increased to **3 or 4**, the number of accompanying children also tended to rise, indicating a family-oriented booking trend.
+
+This analysis highlights the importance of understanding guest demographics in optimizing room allocation and enhancing guest experiences in the hospitality sector.
+
 
 ## 🎉 Conclusion
 The Calling Dashboard project provides invaluable insights into booking patterns and customer demographics in the hospitality sector. By leveraging this dashboard, stakeholders can make informed, data-driven decisions to optimize their operations and enhance guest satisfaction.
