@@ -82,6 +82,10 @@ The final graph showcases the distribution of adults and children across reserva
 
 - **Key Insight**: As the number of adults increases (e.g., 4 adults), the corresponding number of children also rises, indicating a trend towards family bookings. This insight can be useful for marketing strategies, as it highlights the importance of family-friendly amenities and packages in attracting larger groups.
 
+- ## 🔗 Source for Building the Dashboard
+For detailed guidance on building a similar dashboard in Excel, visit this [Excel Dashboard Tutorial](https://medium.com/@Armonia1999/data-analysis-project-excel-dashboard-10c6160f2dbe). This resource provides step-by-step instructions and tips to help you create effective dashboards for data analysis.
+
+
 ## 🚀 Getting Started
 To explore the dashboard and data:
 1. **Clone this repository** to your local machine.
